@@ -1,0 +1,14 @@
+E:\PaypalTest\PaypalTest\bin\Debug\netcoreapp2.1\PaypalTest.deps.json
+E:\PaypalTest\PaypalTest\bin\Debug\netcoreapp2.1\PaypalTest.runtimeconfig.json
+E:\PaypalTest\PaypalTest\bin\Debug\netcoreapp2.1\PaypalTest.runtimeconfig.dev.json
+E:\PaypalTest\PaypalTest\bin\Debug\netcoreapp2.1\PaypalTest.dll
+E:\PaypalTest\PaypalTest\bin\Debug\netcoreapp2.1\PaypalTest.pdb
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.csprojAssemblyReference.cache
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.csproj.CoreCompileInputs.cache
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.RazorAssemblyInfo.cache
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.RazorAssemblyInfo.cs
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.AssemblyInfoInputs.cache
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.AssemblyInfo.cs
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.RazorTargetAssemblyInfo.cache
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.dll
+E:\PaypalTest\PaypalTest\obj\Debug\netcoreapp2.1\PaypalTest.pdb
