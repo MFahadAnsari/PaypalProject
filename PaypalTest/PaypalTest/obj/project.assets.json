@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PaypalTest\\PaypalTest\\PaypalTest.csproj",
+      "projectUniqueName": "E:\\PaypalTesting\\PaypalProject\\PaypalTest\\PaypalTest\\PaypalTest.csproj",
       "projectName": "PaypalTest",
-      "projectPath": "E:\\PaypalTest\\PaypalTest\\PaypalTest.csproj",
+      "projectPath": "E:\\PaypalTesting\\PaypalProject\\PaypalTest\\PaypalTest\\PaypalTest.csproj",
       "packagesPath": "C:\\Users\\shaheer.shahab\\.nuget\\packages\\",
-      "outputPath": "E:\\PaypalTest\\PaypalTest\\obj\\",
+      "outputPath": "E:\\PaypalTesting\\PaypalProject\\PaypalTest\\PaypalTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

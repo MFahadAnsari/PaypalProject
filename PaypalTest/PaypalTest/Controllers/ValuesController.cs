@@ -56,9 +56,14 @@ namespace PaypalTest.Controllers
 
             //Fire and forget verification task
             Task.Run(() => VerifyTask(ipnContext));
+            
+            Dictionary<string, string> data = new Dictionary<string, string>();
+            data.Add("ipnContext.RequestBody", ipnContext.RequestBody);
+            data.Add("ipnContext.Request", ipnContext.IPNRequest.ToString());
+            data.Add("ipnContext.Verification", ipnContext.Verification.ToString());
 
             //Reply back a 200 code
-            return Ok();
+            return Ok(data);
         }
 
         private void VerifyTask(IPNContext ipnContext)
